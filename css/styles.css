@@ -10,7 +10,7 @@
     /* corpo */
     
     body {
-        background-image: url(/img/wallpaper.jpg);
+        background-image: url(img/wallpaper.webp);
         background-repeat: no-repet;
         background-size: cover;
         background-blend-mode: darken;
