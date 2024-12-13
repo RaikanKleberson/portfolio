@@ -4,13 +4,13 @@
     margin: 0;
     padding: 0;
     color: white;
+    background-color: black;
     }
     
     
     /* corpo */
     
     body {
-        background-color: black;
         font-family: 'Courier New', Courier, monospace;
     }
     
