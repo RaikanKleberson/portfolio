@@ -10,7 +10,11 @@
     /* corpo */
     
     body {
-        background-color: blue;
+        background-image: url(/img/wallpaper.webp);
+        background-color: black;
+        background-size:cover;
+        font-family: 'Courier New', Courier, monospace;
+
     }
     
     
