@@ -10,8 +10,8 @@
     /* corpo */
     
     body {
-        background: url(/img/wallpaper.jpg) no-repeat center center;
-        background-repeat: no-repeat;
+        background-color: black;    
+        background-repeat: no-repet;
         background-size: cover;
         background-blend-mode: darken;
         font-family: 'Courier New', Courier, monospace;
